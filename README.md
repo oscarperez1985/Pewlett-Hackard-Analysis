@@ -88,15 +88,15 @@ A single query is performed to merge the employee information in the *employees*
 ## Summary
 
 1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
-
-A total of 72,458 vacant positions will need to be filled assuming a 100% retirement plan. However special attention will need to be paid to two departments: the development department with almost 26 thousand senior engineers and the human resources department with almost 25 thousand senior staff employees eligible for retirement.
+  
+  A total of 72,458 vacant positions will need to be filled assuming a 100% retirement plan. However special attention will need to be paid to two departments: the development department with almost 26 thousand senior engineers and the human resources department with almost 25 thousand senior staff employees eligible for retirement.
 
 2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
-To respond this question, a count of the title of the mentorship-eligible personnel is displayed in a new table:
+  To respond this question, a count of the title of the mentorship-eligible personnel is displayed in a new table:
 
-![Image 09](./Analysis/Snippets/Code_Summary.png)
+  ![Image 09](./Analysis/Snippets/Code_Summary.png)
 
 *Image 09: mentorship_eligibility titles table.*
 
-A total of 1,549 employees are eligible for the mentorship-eligibility program. This amount of personnel would definitely help to mitigate the impact of losing a big amount of the company's workforce. However, there are only 169 eligible senior engineers for the mentorship program while almost 26 thousand senior engineers are eligible for retirementm this is perhaps the most critical aspect to be addressed before the “silver tsunami” makes impact.
+  A total of 1,549 employees are eligible for the mentorship-eligibility program. This amount of personnel would definitely help to mitigate the impact of losing a big amount of the company's workforce. However, there are only 169 eligible senior engineers for the mentorship program while almost 26 thousand senior engineers are eligible for retirementm this is perhaps the most critical aspect to be addressed before the “silver tsunami” makes impact.
