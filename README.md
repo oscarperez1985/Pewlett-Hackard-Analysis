@@ -30,8 +30,11 @@ The following image shows the Entity Relational Diagram (ERD) of the six input d
 Three final deliverable products and a **SQL** database query are provided as a results of this analysis:
 
 **[Deliverable 1](./Analysis/retiring_titles.csv)**: The number of retiring employees by title.
-**[Deliverable 2](./Analysis/mentorship_eligibility.csv)**: The Employees Eligible for the Mentorship Program
-**[Deliverable 3](./README.md)**: A written report on the employee database analysis (This README.md file)
+
+**[Deliverable 2](./Analysis/mentorship_eligibility.csv)**: The Employees Eligible for the Mentorship Program.
+
+**[Deliverable 3](./README.md)**: A written report on the employee database analysis (This README.md file).
+
 **[SQL Query](./Employee_Database_challenge.sql)**
 
 ### Deliverable 1
