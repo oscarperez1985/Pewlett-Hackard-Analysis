@@ -2,13 +2,13 @@
 
 ## Overview of the analysis
 
-Pewlett-Hackard (PH), a large technology company founded several years ago is facing a rapid retirement rate of its employees born in the mid sixties, also known as **"Baby Boomers"**.
+Pewlett-Hackard (PH), a large technology company founded several years ago is facing a rapid retirement rate of its employees born in the mid-sixties, also known as **"Baby Boomers"**.
 
-Looking ahead, PH is offering a retirement package for its current employees who are born between 1952 and 1955. This mean that a large chunk of the company workforce will be reduced. Thus, a thorougful analysis is conducted to identify how what employees are retiring, what positions will need to be filled and what will be the impact of this retirement plan in the different departments of the company structure.
+Looking ahead, PH is offering a retirement package for its current employees who are born between 1952 and 1955. This mean that a large chunk of the company workforce will be reduced. Thus, a deep analysis is conducted to identify how what employees are retiring, what positions will need to be filled and what will be the impact of this retirement plan in the different departments of the company structure.
 
-To mitigate the impact of the retirement plan, PH is additinally planning a mentoring program in which experienced and successful employees born in 1955 are eligible to step back into a part-time role instead of retiring completely. Their new role in the company would be as a mentor to the newly hired personnel.
+To mitigate the impact of the retirement plan, PH is additionally planning a mentoring program in which experienced and successful employees born in 1955 are eligible to step back into a part-time role instead of retiring completely. Their new role in the company would be as a mentor to the newly hired personnel.
 
-In this module, we are required to apply data modeling, engineering and anlysis to the PH employee database, using *Structured Query Language*, also known as *SQL*.
+In this module, we are required to apply data modeling, engineering and analysis to the PH employee database, using *Structured Query Language*, also known as *SQL*.
 
 Six input csv datasets are provided and were used to build the PH employee database:
 
@@ -27,7 +27,7 @@ The following image shows the Entity Relational Diagram (ERD) of the six input d
 
 ## Results
 
-Three final deliverable products and a **SQL** database query are provided as a results of this analysis:
+Three final deliverable products and a **SQL** database query are provided as a result of this analysis:
 
 **[Deliverable 1](./Analysis/retiring_titles.csv)**: The number of retiring employees by title.
 
@@ -39,7 +39,7 @@ Three final deliverable products and a **SQL** database query are provided as a 
 
 ### Deliverable 1
 
-This deliverable consist of a table that holds the most recent title of all the current employees who are eligible for retirement.
+This deliverable consists of a table that holds the most recent title of all the current employees who are eligible for retirement.
 
 A first query is written to merge the input tables *employees* and *titles*. The merge is performed based on employees who were born between 01/01/1952 and 12/31/1955. Finally, the table is sorted in ascending order by the employee number column. The outcome of this action is written and saved is a new table named *retirement_title.csv*
 
@@ -99,4 +99,4 @@ To respond this question, a count of the title of the mentorship-eligible person
 
 *Image 09: mentorship_eligibility titles table.*
 
-A total of 1,549 employees are eligible for the mentorship-eligibility program. This amount of personnel would definitely help to mitigate the impact of losing a big amount of the company's workforce. However, there are only 169 eligible senior engineers for the mentorship program while almost 26 thousand senior engineers are eligible for retirementm this is perhaps the most critical aspect to be addressed before the “silver tsunami” makes impact.
+A total of 1,549 employees are eligible for the mentorship-eligibility program. This amount of personnel would help to mitigate the impact of losing a big amount of the company's workforce. However, there are only 169 eligible senior engineers for the mentorship program while almost 26 thousand senior engineers are eligible for retirement. This is perhaps the most critical aspect to be addressed before the “silver tsunami” makes its impact.
