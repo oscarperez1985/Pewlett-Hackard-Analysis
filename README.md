@@ -19,7 +19,11 @@ Six input csv datasets are provided and were used to build the PH employee datab
 5. **[Salaries table](./Resources/salaries.csv)**.
 6. **[Titles table](./Resources/titles.csv)**.
 
-The ![Image 01](./Analysis/Snippets/ERD.png) shows the Entity Relational Diagram (ERD) of the six input datasets. It was created using *Quick Database Diagrams*. This diagram or database map, displays a visual representation of the content of each table in the database and the flow of data from one table to another.
+The following image shows the Entity Relational Diagram (ERD) of the six input datasets. It was created using *Quick Database Diagrams*. This diagram or database map, displays a visual representation of the content of each table in the database and the flow of data from one table to another.
+
+![Image 00](./Analysis/Snippets/ERD.png)
+
+*Image 00: Entity Relational Diagram (ERD)*
 
 ## Results
 
