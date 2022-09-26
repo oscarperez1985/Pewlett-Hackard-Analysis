@@ -87,11 +87,11 @@ A single query is performed to merge the employee information in the *employees*
 
 ## Summary
 
-1. How many roles will need to be filled as the "silver tsunami" begins to make an impact?
+* How many roles will need to be filled as the "silver tsunami" begins to make an impact?
   
 A total of 72,458 vacant positions will need to be filled assuming a 100% retirement plan. However special attention will need to be paid to two departments: the development department with almost 26 thousand senior engineers and the human resources department with almost 25 thousand senior staff employees eligible for retirement.
 
-2. Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
+* Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 
 To respond this question, a count of the title of the mentorship-eligible personnel is displayed in a new table:
 
